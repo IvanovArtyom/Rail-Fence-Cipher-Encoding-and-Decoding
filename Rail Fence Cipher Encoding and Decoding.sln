@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rail Fence Cipher Encoding and Decoding", "Rail Fence Cipher Encoding and Decoding\Rail Fence Cipher Encoding and Decoding.csproj", "{92CF0026-0FDC-4730-94A3-755813B98518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CF0026-0FDC-4730-94A3-755813B98518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CF0026-0FDC-4730-94A3-755813B98518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CF0026-0FDC-4730-94A3-755813B98518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CF0026-0FDC-4730-94A3-755813B98518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA1BBD75-3067-4EF8-9C3F-02BE0B69DA05}
+	EndGlobalSection
+EndGlobal
